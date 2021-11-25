@@ -3,6 +3,11 @@ A Gnome Shell integration for Velbus
 
 Allows Velbus (https://www.velbus.eu/) Lights and Temperature settings for a room to be accessed via the Gnome shell. Tested on Debian 10 Buster + Gnome 3.30.2.
 
+![Lights off and without dropdown](images/Velbus-1.png)
+
+![Lights off and with dropdown to turn on lights](images/Velbus-2.png)
+![Lights on and with dropdown to turn off lights](images/Velbus-3.png)
+
 # Requirements
 * Gnome Shell
 * The Argos Gnome Shell Extension from https://extensions.gnome.org/extension/1176/argos/
